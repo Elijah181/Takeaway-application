@@ -5,12 +5,23 @@ h1 {
     font-size: 100px;
     text-align: center;
 }
-h2 {
-    font-size: 75px;
-}
 h3 {
-    font-size: 50px;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 5px;
 }
-menuitem {
-    margin: auto;
+h4{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.menuitem {
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+img {
+    height: 200px;
 }
